@@ -1,0 +1,1794 @@
+{
+ "generated": "2026-10-04T13:50:18Z",
+ "count": 447,
+ "games": [
+  {
+   "appid": 100,
+   "name": "Counter-Strike: Condition Zero"
+  },
+  {
+   "appid": 420,
+   "name": "Half-Life 2: Episode Two"
+  },
+  {
+   "appid": 2130,
+   "name": "Dark Messiah of Might & Magic"
+  },
+  {
+   "appid": 4760,
+   "name": "Rome: Total War™ - Collection"
+  },
+  {
+   "appid": 10190,
+   "name": "Call of Duty®: Modern Warfare® 2 (2009)"
+  },
+  {
+   "appid": 10500,
+   "name": "Total War: EMPIRE – Definitive Edition"
+  },
+  {
+   "appid": 12100,
+   "name": "Grand Theft Auto III"
+  },
+  {
+   "appid": 12110,
+   "name": "Grand Theft Auto: Vice City"
+  },
+  {
+   "appid": 12120,
+   "name": "Grand Theft Auto: San Andreas"
+  },
+  {
+   "appid": 12230,
+   "name": "Grand Theft Auto III"
+  },
+  {
+   "appid": 12250,
+   "name": "Grand Theft Auto: San Andreas"
+  },
+  {
+   "appid": 13210,
+   "name": "Unreal Tournament 3"
+  },
+  {
+   "appid": 13230,
+   "name": "Unreal Tournament 2004: Editor's Choice Edition"
+  },
+  {
+   "appid": 13240,
+   "name": "Unreal Tournament: Game of the Year Edition"
+  },
+  {
+   "appid": 15560,
+   "name": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome"
+  },
+  {
+   "appid": 16730,
+   "name": "Legendary"
+  },
+  {
+   "appid": 17450,
+   "name": "Dragon Age: Origins"
+  },
+  {
+   "appid": 17580,
+   "name": "Dystopia"
+  },
+  {
+   "appid": 20510,
+   "name": "S.T.A.L.K.E.R.: Clear Sky"
+  },
+  {
+   "appid": 20570,
+   "name": "Warhammer® 40,000: Dawn of War® II Chaos Rising"
+  },
+  {
+   "appid": 23420,
+   "name": "Europa Universalis: Rome - Gold Edition"
+  },
+  {
+   "appid": 24670,
+   "name": "Trainz™ Simulator 12"
+  },
+  {
+   "appid": 24960,
+   "name": "Battlefield: Bad Company™ 2"
+  },
+  {
+   "appid": 31190,
+   "name": "Tales of Monkey Island Complete Pack: Chapter 3 - Lair of the Leviathan"
+  },
+  {
+   "appid": 40990,
+   "name": "Mafia"
+  },
+  {
+   "appid": 43110,
+   "name": "Metro 2033"
+  },
+  {
+   "appid": 47810,
+   "name": "Dragon Age: Origins - Ultimate Edition"
+  },
+  {
+   "appid": 65270,
+   "name": "Demolition Company Gold Edition"
+  },
+  {
+   "appid": 104600,
+   "name": "Portal 2 - The Final Hours"
+  },
+  {
+   "appid": 105450,
+   "name": "Age of Empires® III (2007)"
+  },
+  {
+   "appid": 115300,
+   "name": "Call of Duty®: Modern Warfare® 3 (2011)"
+  },
+  {
+   "appid": 200260,
+   "name": "Batman: Arkham City - Game of the Year Edition"
+  },
+  {
+   "appid": 200940,
+   "name": "Sonic CD"
+  },
+  {
+   "appid": 201830,
+   "name": "Jurassic Park: The Game"
+  },
+  {
+   "appid": 202990,
+   "name": "Call of Duty®: Black Ops II"
+  },
+  {
+   "appid": 203680,
+   "name": "F1 RACE STARS™"
+  },
+  {
+   "appid": 208140,
+   "name": "ENDLESS Space™ - Definitive Edition"
+  },
+  {
+   "appid": 208480,
+   "name": "Assassin’s Creed® III"
+  },
+  {
+   "appid": 208500,
+   "name": "F1 2012™"
+  },
+  {
+   "appid": 208520,
+   "name": "Omerta - City of Gangsters"
+  },
+  {
+   "appid": 209100,
+   "name": "Resident Evil: Operation Raccoon City"
+  },
+  {
+   "appid": 209170,
+   "name": "Call of Duty®: Ghosts"
+  },
+  {
+   "appid": 209660,
+   "name": "Call of Duty®: Advanced Warfare - Gold Edition"
+  },
+  {
+   "appid": 211420,
+   "name": "DARK SOULS™: Prepare To Die™ Edition"
+  },
+  {
+   "appid": 214190,
+   "name": "Minimum"
+  },
+  {
+   "appid": 214950,
+   "name": "Total War: ROME II - Emperor Edition"
+  },
+  {
+   "appid": 215930,
+   "name": "Jagged Alliance 2 - Wildfire"
+  },
+  {
+   "appid": 219950,
+   "name": "NiGHTS Into Dreams"
+  },
+  {
+   "appid": 222940,
+   "name": "THE KING OF FIGHTERS XIII STEAM EDITION"
+  },
+  {
+   "appid": 225080,
+   "name": "Brothers - A Tale of Two Sons"
+  },
+  {
+   "appid": 228180,
+   "name": "Action! - Gameplay Recording and Streaming"
+  },
+  {
+   "appid": 229580,
+   "name": "Dream"
+  },
+  {
+   "appid": 234630,
+   "name": "Project CARS"
+  },
+  {
+   "appid": 234710,
+   "name": "Poker Night 2"
+  },
+  {
+   "appid": 235540,
+   "name": "Warhammer: End Times - Vermintide"
+  },
+  {
+   "appid": 236870,
+   "name": "HITMAN™"
+  },
+  {
+   "appid": 237110,
+   "name": "Mortal Kombat Komplete Edition"
+  },
+  {
+   "appid": 241560,
+   "name": "The Crew™"
+  },
+  {
+   "appid": 246960,
+   "name": "Giana Sisters: Twisted Dreams - Rise of the Owlverlord"
+  },
+  {
+   "appid": 247120,
+   "name": "Portal 2 Sixense Perceptual Pack"
+  },
+  {
+   "appid": 247730,
+   "name": "Nether: Resurrected"
+  },
+  {
+   "appid": 248970,
+   "name": "Vector"
+  },
+  {
+   "appid": 251170,
+   "name": "Damned"
+  },
+  {
+   "appid": 252150,
+   "name": "Grimm"
+  },
+  {
+   "appid": 252950,
+   "name": "Rocket League®"
+  },
+  {
+   "appid": 255220,
+   "name": "GRID Autosport"
+  },
+  {
+   "appid": 259130,
+   "name": "Wasteland 1 - The Original Classic"
+  },
+  {
+   "appid": 260230,
+   "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™"
+  },
+  {
+   "appid": 266150,
+   "name": "Lost Saga NA"
+  },
+  {
+   "appid": 267490,
+   "name": "Batman™: Arkham Origins Blackgate - Deluxe Edition"
+  },
+  {
+   "appid": 267530,
+   "name": "The LEGO® Movie - Videogame"
+  },
+  {
+   "appid": 267670,
+   "name": "Realms of Arkania 1 - Blade of Destiny Classic"
+  },
+  {
+   "appid": 270750,
+   "name": "Realms of Arkania 2 - Star Trail Classic"
+  },
+  {
+   "appid": 271590,
+   "name": "Grand Theft Auto V Legacy"
+  },
+  {
+   "appid": 273350,
+   "name": "Evolve Stage 2"
+  },
+  {
+   "appid": 274920,
+   "name": "FaceRig"
+  },
+  {
+   "appid": 281860,
+   "name": "RefleX"
+  },
+  {
+   "appid": 283390,
+   "name": "Incoming + Incoming Forces"
+  },
+  {
+   "appid": 287260,
+   "name": "Toybox Turbos"
+  },
+  {
+   "appid": 292030,
+   "name": "The Witcher 3: Wild Hunt — Remastered"
+  },
+  {
+   "appid": 292180,
+   "name": "X-Plane 10 Global - 64 Bit"
+  },
+  {
+   "appid": 313340,
+   "name": "Mountain"
+  },
+  {
+   "appid": 345240,
+   "name": "SHOGUN: Total War™ - Collection"
+  },
+  {
+   "appid": 349270,
+   "name": "Mosaic"
+  },
+  {
+   "appid": 370240,
+   "name": "NBA 2K16"
+  },
+  {
+   "appid": 376870,
+   "name": "Minecraft: Story Mode - A Telltale Games Series"
+  },
+  {
+   "appid": 384960,
+   "name": "Vengeance"
+  },
+  {
+   "appid": 385760,
+   "name": "NBA 2K17"
+  },
+  {
+   "appid": 400750,
+   "name": "Call to Arms - Gates of Hell: Ostfront"
+  },
+  {
+   "appid": 420560,
+   "name": "Firefighting Simulator - The Squad"
+  },
+  {
+   "appid": 421020,
+   "name": "DiRT 4"
+  },
+  {
+   "appid": 423700,
+   "name": "Apocalypse Hotel - The Post-Apocalyptic Hotel Simulator!"
+  },
+  {
+   "appid": 453850,
+   "name": "Dear RED - Extended"
+  },
+  {
+   "appid": 464780,
+   "name": "ChuSingura46+1 S"
+  },
+  {
+   "appid": 464920,
+   "name": "Surviving Mars"
+  },
+  {
+   "appid": 466860,
+   "name": "上帝之城 I：监狱帝国 [City of God I - Prison Empire]"
+  },
+  {
+   "appid": 489630,
+   "name": "Warhammer 40,000: Gladius - Relics of War"
+  },
+  {
+   "appid": 491830,
+   "name": "Glow"
+  },
+  {
+   "appid": 498240,
+   "name": "Batman - The Telltale Series"
+  },
+  {
+   "appid": 500170,
+   "name": "Urlaubsflug Simulator – Holiday Flight Simulator"
+  },
+  {
+   "appid": 504130,
+   "name": "Manual Samuel - Last Tuesday Edition"
+  },
+  {
+   "appid": 504380,
+   "name": "Detective Hayseed - Hollywood"
+  },
+  {
+   "appid": 527430,
+   "name": "Warhammer 40,000: Inquisitor - Martyr"
+  },
+  {
+   "appid": 532790,
+   "name": "Vampire: The Masquerade® - Bloodlines™ 2"
+  },
+  {
+   "appid": 541570,
+   "name": "Sally Face - Episode One"
+  },
+  {
+   "appid": 570350,
+   "name": "Sorry. (Entschuldigung) ~ A Psychological Horror Visual Novel"
+  },
+  {
+   "appid": 577800,
+   "name": "NBA 2K18"
+  },
+  {
+   "appid": 578650,
+   "name": "The Outer Worlds"
+  },
+  {
+   "appid": 582270,
+   "name": "Everything"
+  },
+  {
+   "appid": 588970,
+   "name": "Oik"
+  },
+  {
+   "appid": 601050,
+   "name": "Attack on Titan 2 - A.O.T.2"
+  },
+  {
+   "appid": 618140,
+   "name": "Barro"
+  },
+  {
+   "appid": 638970,
+   "name": "Yakuza 0"
+  },
+  {
+   "appid": 644560,
+   "name": "Mirror"
+  },
+  {
+   "appid": 647960,
+   "name": "Rusted Warfare - RTS"
+  },
+  {
+   "appid": 672630,
+   "name": "Academia : School Simulator"
+  },
+  {
+   "appid": 680320,
+   "name": "The Heiress"
+  },
+  {
+   "appid": 690530,
+   "name": "灵魂筹码 Soul at Stake"
+  },
+  {
+   "appid": 737800,
+   "name": "F1 2018"
+  },
+  {
+   "appid": 776490,
+   "name": "永远消失的幻想乡 ～ The Disappearing of Gensokyo"
+  },
+  {
+   "appid": 785770,
+   "name": "Emergency Call 112 – The Fire Fighting Simulation 2"
+  },
+  {
+   "appid": 792810,
+   "name": "Balloon"
+  },
+  {
+   "appid": 811550,
+   "name": "MythBusters: The Game - Crazy Experiments Simulator"
+  },
+  {
+   "appid": 816120,
+   "name": "First Winter"
+  },
+  {
+   "appid": 831710,
+   "name": "Electronic Piano"
+  },
+  {
+   "appid": 838350,
+   "name": "The Scroll of Taiwu : Beyond The Dome"
+  },
+  {
+   "appid": 838380,
+   "name": "DEAD OR ALIVE 6"
+  },
+  {
+   "appid": 841370,
+   "name": "NBA 2K19"
+  },
+  {
+   "appid": 857450,
+   "name": "ISLAND"
+  },
+  {
+   "appid": 863550,
+   "name": "HITMAN™ 2"
+  },
+  {
+   "appid": 930230,
+   "name": "King under the Mountain"
+  },
+  {
+   "appid": 931180,
+   "name": "Conan Exiles - Public Beta Client"
+  },
+  {
+   "appid": 933820,
+   "name": "Endzone - A World Apart"
+  },
+  {
+   "appid": 944110,
+   "name": "Pocket Waifu 🔞[ADULT NSFW]"
+  },
+  {
+   "appid": 950670,
+   "name": "Gothic Playable Teaser"
+  },
+  {
+   "appid": 952070,
+   "name": "RESIDENT EVIL RESISTANCE"
+  },
+  {
+   "appid": 952860,
+   "name": "河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon)"
+  },
+  {
+   "appid": 966330,
+   "name": "Flower"
+  },
+  {
+   "appid": 969990,
+   "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
+  },
+  {
+   "appid": 997070,
+   "name": "Marvel's Avengers - The Definitive Edition"
+  },
+  {
+   "appid": 1001070,
+   "name": "Koi"
+  },
+  {
+   "appid": 1001270,
+   "name": "Kebab Chefs! - Restaurant Simulator"
+  },
+  {
+   "appid": 1005130,
+   "name": "Delicious - Emily's Road Trip"
+  },
+  {
+   "appid": 1010750,
+   "name": "Blood™ Fresh Supply"
+  },
+  {
+   "appid": 1013140,
+   "name": "Outcast - A New Beginning"
+  },
+  {
+   "appid": 1013310,
+   "name": "Peaky Blinders: Mastermind"
+  },
+  {
+   "appid": 1015500,
+   "name": "WWE 2K20"
+  },
+  {
+   "appid": 1016120,
+   "name": "PGA TOUR 2K21"
+  },
+  {
+   "appid": 1016600,
+   "name": "Devil Slayer - Raksasi"
+  },
+  {
+   "appid": 1024380,
+   "name": "Second Extinction™"
+  },
+  {
+   "appid": 1026680,
+   "name": "FINAL FANTASY VIII - REMASTERED"
+  },
+  {
+   "appid": 1031480,
+   "name": "TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II"
+  },
+  {
+   "appid": 1036370,
+   "name": "Flying Red Barrel - The Diary of a Little Aviator"
+  },
+  {
+   "appid": 1040610,
+   "name": "Zero One / 杀戮世界"
+  },
+  {
+   "appid": 1042780,
+   "name": "Pine"
+  },
+  {
+   "appid": 1044620,
+   "name": "Aokana - Four Rhythms Across the Blue"
+  },
+  {
+   "appid": 1054390,
+   "name": "Blonde"
+  },
+  {
+   "appid": 1056600,
+   "name": "Home Sweet Home : Survive"
+  },
+  {
+   "appid": 1066110,
+   "name": "Home Planner - Design Room 3D - Pro"
+  },
+  {
+   "appid": 1066810,
+   "name": "Forge and Fight!"
+  },
+  {
+   "appid": 1070950,
+   "name": "My University 我的大学"
+  },
+  {
+   "appid": 1073440,
+   "name": "コイカツ！ / Koikatsu Party"
+  },
+  {
+   "appid": 1076280,
+   "name": "Showdown Bandit"
+  },
+  {
+   "appid": 1080110,
+   "name": "F1® 2020"
+  },
+  {
+   "appid": 1082240,
+   "name": "Taboos: Flower"
+  },
+  {
+   "appid": 1084870,
+   "name": "OSK - The End of Time"
+  },
+  {
+   "appid": 1085510,
+   "name": "Garfield Kart - Furious Racing"
+  },
+  {
+   "appid": 1089350,
+   "name": "NBA 2K20"
+  },
+  {
+   "appid": 1089830,
+   "name": "Monster Energy Supercross - The Official Videogame 3"
+  },
+  {
+   "appid": 1096300,
+   "name": "九霄缳神记 JIU XIAO"
+  },
+  {
+   "appid": 1097150,
+   "name": "Fall Guys"
+  },
+  {
+   "appid": 1097310,
+   "name": "Night Sing"
+  },
+  {
+   "appid": 1097800,
+   "name": "Stranger Things 3: The Game"
+  },
+  {
+   "appid": 1099400,
+   "name": "唤境引擎 Evkworld"
+  },
+  {
+   "appid": 1100600,
+   "name": "Football Manager 2020"
+  },
+  {
+   "appid": 1100620,
+   "name": "Football Manager 2020 Touch"
+  },
+  {
+   "appid": 1100970,
+   "name": "Dancing Girl"
+  },
+  {
+   "appid": 1103490,
+   "name": "Sweet Dream Succubus - Nightmare Edition"
+  },
+  {
+   "appid": 1103860,
+   "name": "The Wizards - Dark Times: Brotherhood"
+  },
+  {
+   "appid": 1109840,
+   "name": "Réussir : Code de la Route - Nouvelle Édition (French Highway Code)"
+  },
+  {
+   "appid": 1114070,
+   "name": "My Child Lebensborn (Original)"
+  },
+  {
+   "appid": 1121560,
+   "name": "Atelier Ryza: Ever Darkness & the Secret Hideout"
+  },
+  {
+   "appid": 1126290,
+   "name": "Lost"
+  },
+  {
+   "appid": 1130620,
+   "name": "[Chilla's Art] Aka Manto | 赤マント"
+  },
+  {
+   "appid": 1134570,
+   "name": "F1® 2021"
+  },
+  {
+   "appid": 1135240,
+   "name": "Men of War: Assault Squad 2 - Cold War"
+  },
+  {
+   "appid": 1138060,
+   "name": "Diablo_IslanD 暗黑破坏岛"
+  },
+  {
+   "appid": 1139470,
+   "name": "THE ART - Metamorphosis"
+  },
+  {
+   "appid": 1142100,
+   "name": "WWE 2K BATTLEGROUNDS"
+  },
+  {
+   "appid": 1149430,
+   "name": "KiKiMiMi2 / 听能力搜查官2"
+  },
+  {
+   "appid": 1150590,
+   "name": "Samurai Jack: Battle Through Time"
+  },
+  {
+   "appid": 1150640,
+   "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution"
+  },
+  {
+   "appid": 1159420,
+   "name": "Robin Hood - Sherwood Builders"
+  },
+  {
+   "appid": 1162680,
+   "name": "[Chilla's Art] Stigmatized Property | 事故物件"
+  },
+  {
+   "appid": 1163140,
+   "name": "Shanghai Office Simulator"
+  },
+  {
+   "appid": 1167100,
+   "name": "Mind"
+  },
+  {
+   "appid": 1170610,
+   "name": "ghfghgffhf"
+  },
+  {
+   "appid": 1178490,
+   "name": "港詭實錄ParanormalHK"
+  },
+  {
+   "appid": 1182760,
+   "name": "Starlight"
+  },
+  {
+   "appid": 1184210,
+   "name": "Fragile"
+  },
+  {
+   "appid": 1184370,
+   "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+  },
+  {
+   "appid": 1185160,
+   "name": "[Chilla's Art] Inunaki Tunnel | 犬鳴トンネル"
+  },
+  {
+   "appid": 1190460,
+   "name": "DEATH STRANDING"
+  },
+  {
+   "appid": 1191070,
+   "name": "[Chilla's Art] Yuki Onna | 雪女"
+  },
+  {
+   "appid": 1194250,
+   "name": "Screaming Chicken: Ultimate Showdown"
+  },
+  {
+   "appid": 1195420,
+   "name": "Filthy Animals | Heist Simulator"
+  },
+  {
+   "appid": 1206560,
+   "name": "WorldBox - God Simulator"
+  },
+  {
+   "appid": 1209060,
+   "name": "Cowboy"
+  },
+  {
+   "appid": 1218010,
+   "name": "HGFaceDD"
+  },
+  {
+   "appid": 1225330,
+   "name": "NBA 2K21"
+  },
+  {
+   "appid": 1228410,
+   "name": "WATCH / 透视"
+  },
+  {
+   "appid": 1228520,
+   "name": "[Chilla's Art] The Convenience Store | 夜勤事件"
+  },
+  {
+   "appid": 1232980,
+   "name": "Alien 911 Prologue"
+  },
+  {
+   "appid": 1236300,
+   "name": "Resident Evil Re:Verse"
+  },
+  {
+   "appid": 1236990,
+   "name": "Boris and the Dark Survival"
+  },
+  {
+   "appid": 1239520,
+   "name": "Madden NFL 21"
+  },
+  {
+   "appid": 1248990,
+   "name": "Mýrdalssandur, Iceland"
+  },
+  {
+   "appid": 1253690,
+   "name": "Teke Teke - テケテケ"
+  },
+  {
+   "appid": 1254900,
+   "name": "迷雾之夏-The Vigilant Villa"
+  },
+  {
+   "appid": 1255630,
+   "name": "WWE 2K22"
+  },
+  {
+   "appid": 1255730,
+   "name": "RUNPUZZLE"
+  },
+  {
+   "appid": 1257290,
+   "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy"
+  },
+  {
+   "appid": 1257560,
+   "name": "Make Your Kingdom: Prologue"
+  },
+  {
+   "appid": 1259970,
+   "name": "eFootball PES 2021 SEASON UPDATE"
+  },
+  {
+   "appid": 1265240,
+   "name": "Uniform Girl"
+  },
+  {
+   "appid": 1265860,
+   "name": "NASCAR Heat 5"
+  },
+  {
+   "appid": 1266700,
+   "name": "Destroy All Humans! 2 - Reprobed"
+  },
+  {
+   "appid": 1267310,
+   "name": "[Chilla's Art] Onryo | 怨霊"
+  },
+  {
+   "appid": 1274540,
+   "name": "Tomatenquark"
+  },
+  {
+   "appid": 1274820,
+   "name": "Street Hero"
+  },
+  {
+   "appid": 1281380,
+   "name": "INVASION"
+  },
+  {
+   "appid": 1291170,
+   "name": "Terrordrome - Reign of the Legends"
+  },
+  {
+   "appid": 1293830,
+   "name": "Forza Horizon 4"
+  },
+  {
+   "appid": 1295510,
+   "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition"
+  },
+  {
+   "appid": 1297370,
+   "name": "Zombies Don't Drive"
+  },
+  {
+   "appid": 1299510,
+   "name": "Vampire: The Masquerade – Swansong"
+  },
+  {
+   "appid": 1306620,
+   "name": "[Chilla's Art] Missing Children | 行方不明"
+  },
+  {
+   "appid": 1306760,
+   "name": "Time Agent"
+  },
+  {
+   "appid": 1313860,
+   "name": "EA SPORTS™ FIFA 21"
+  },
+  {
+   "appid": 1325200,
+   "name": "Nioh 2 – The Complete Edition"
+  },
+  {
+   "appid": 1331200,
+   "name": "Backfire"
+  },
+  {
+   "appid": 1332340,
+   "name": "DISORDER"
+  },
+  {
+   "appid": 1340130,
+   "name": "Aokana - Four Rhythms Across the Blue - EXTRA1"
+  },
+  {
+   "appid": 1342250,
+   "name": "ZERO GUNNER 2-"
+  },
+  {
+   "appid": 1349960,
+   "name": "[Chilla's Art] The Ghost Train | 幽霊列車"
+  },
+  {
+   "appid": 1350240,
+   "name": "Critters for Sale: SNAKE"
+  },
+  {
+   "appid": 1350650,
+   "name": "FreshWomen - Season 1"
+  },
+  {
+   "appid": 1357870,
+   "name": "Metel - Horror Escape"
+  },
+  {
+   "appid": 1366270,
+   "name": "Primal Carnage: Extinction - Workshop Tool"
+  },
+  {
+   "appid": 1366550,
+   "name": "Explore Girl · Rope Sprite"
+  },
+  {
+   "appid": 1371480,
+   "name": "Iron Conflict"
+  },
+  {
+   "appid": 1372880,
+   "name": "The Day Before"
+  },
+  {
+   "appid": 1373020,
+   "name": "Fox's Holiday / 狐の假期"
+  },
+  {
+   "appid": 1373270,
+   "name": "Sakura Dimensions"
+  },
+  {
+   "appid": 1373430,
+   "name": "Leisure Suit Larry - Wet Dreams Dry Twice"
+  },
+  {
+   "appid": 1375540,
+   "name": "Omno: Prologue"
+  },
+  {
+   "appid": 1379560,
+   "name": "Steven Universe: Unleash the Light"
+  },
+  {
+   "appid": 1397350,
+   "name": "好久不见 - Long Time No See"
+  },
+  {
+   "appid": 1400290,
+   "name": "[Chilla's Art] Hanako | 花子さん"
+  },
+  {
+   "appid": 1412510,
+   "name": "仙剑奇侠传九野"
+  },
+  {
+   "appid": 1414470,
+   "name": "Yeomna : The Legend of Dongbaek"
+  },
+  {
+   "appid": 1415660,
+   "name": "TRADER LIFE SIMULATOR"
+  },
+  {
+   "appid": 1418630,
+   "name": "Dread Hunger"
+  },
+  {
+   "appid": 1421960,
+   "name": "HordeCore: Training Ground"
+  },
+  {
+   "appid": 1422130,
+   "name": "SimRail - The Railway Simulator"
+  },
+  {
+   "appid": 1435610,
+   "name": "Master of Miracles"
+  },
+  {
+   "appid": 1443260,
+   "name": "Endless"
+  },
+  {
+   "appid": 1446280,
+   "name": "Alice in Wonderland - a jigsaw puzzle tale"
+  },
+  {
+   "appid": 1449200,
+   "name": "AI: THE SOMNIUM FILES - nirvanA Initiative"
+  },
+  {
+   "appid": 1449560,
+   "name": "Metro Exodus"
+  },
+  {
+   "appid": 1450100,
+   "name": "LUNA"
+  },
+  {
+   "appid": 1451810,
+   "name": "LEGO® 2K Drive"
+  },
+  {
+   "appid": 1455530,
+   "name": "东方剑姬在西方旅行的故事"
+  },
+  {
+   "appid": 1469250,
+   "name": "Rubber Bandits: Christmas Prologue"
+  },
+  {
+   "appid": 1470670,
+   "name": "Squirrelmageddon!"
+  },
+  {
+   "appid": 1474930,
+   "name": "Heavy Cargo - The Truck Simulator"
+  },
+  {
+   "appid": 1477070,
+   "name": "Depersonalization"
+  },
+  {
+   "appid": 1477590,
+   "name": "EZ2ON REBOOT : R"
+  },
+  {
+   "appid": 1494860,
+   "name": "CLEARWORLD"
+  },
+  {
+   "appid": 1502560,
+   "name": "The Smurfs - Mission Vileaf"
+  },
+  {
+   "appid": 1503670,
+   "name": "[Chilla's Art] The Caregiver | 終焉介護"
+  },
+  {
+   "appid": 1504500,
+   "name": "OPUS: Echo of Starsong - Full Bloom Edition"
+  },
+  {
+   "appid": 1506280,
+   "name": "Erophone"
+  },
+  {
+   "appid": 1511870,
+   "name": "末日竟在我身边 - Zombies Everywhere"
+  },
+  {
+   "appid": 1514380,
+   "name": "COGEN: Sword of Rewind / COGEN: 大鳥こはくと刻の剣"
+  },
+  {
+   "appid": 1514690,
+   "name": "Peekaboo Lite"
+  },
+  {
+   "appid": 1516490,
+   "name": "CompactO - Idle Game"
+  },
+  {
+   "appid": 1518430,
+   "name": "Eiyu*Senki Gold – A New Conquest"
+  },
+  {
+   "appid": 1518770,
+   "name": "Re: LieF ~ Shin'ainaru Anata e~"
+  },
+  {
+   "appid": 1520160,
+   "name": "Chrono Sword"
+  },
+  {
+   "appid": 1531430,
+   "name": "Paragon: The Overprime"
+  },
+  {
+   "appid": 1532190,
+   "name": "Halo: CE Mod Tools - MCC"
+  },
+  {
+   "appid": 1546970,
+   "name": "Grand Theft Auto III – The Definitive Edition"
+  },
+  {
+   "appid": 1546990,
+   "name": "Grand Theft Auto: Vice City – The Definitive Edition"
+  },
+  {
+   "appid": 1547000,
+   "name": "Grand Theft Auto: San Andreas – The Definitive Edition"
+  },
+  {
+   "appid": 1549180,
+   "name": "Propnight"
+  },
+  {
+   "appid": 1557780,
+   "name": "Help Me!"
+  },
+  {
+   "appid": 1560580,
+   "name": "LineArt Jigsaw Puzzle - Erotica Valentines"
+  },
+  {
+   "appid": 1569040,
+   "name": "Football Manager 2022"
+  },
+  {
+   "appid": 1573720,
+   "name": "Agatha Christie - Hercule Poirot: The First Cases"
+  },
+  {
+   "appid": 1592520,
+   "name": "WitchSpring3 Re:Fine - The Story of Eirudy -"
+  },
+  {
+   "appid": 1594900,
+   "name": "A long Time"
+  },
+  {
+   "appid": 1595380,
+   "name": "The Durka: You will (not) die"
+  },
+  {
+   "appid": 1611490,
+   "name": "[Chilla's Art] Night Delivery | 例外配達"
+  },
+  {
+   "appid": 1613450,
+   "name": "Halo 2 Mod Tools - MCC"
+  },
+  {
+   "appid": 1626880,
+   "name": "Skydome"
+  },
+  {
+   "appid": 1631080,
+   "name": "HoneySelect2Libido DX"
+  },
+  {
+   "appid": 1639430,
+   "name": "Princess&Blade"
+  },
+  {
+   "appid": 1640030,
+   "name": "Adventures With a Girl"
+  },
+  {
+   "appid": 1641670,
+   "name": "EdgeOfTheAbyssAwaken"
+  },
+  {
+   "appid": 1644960,
+   "name": "NBA 2K22"
+  },
+  {
+   "appid": 1650810,
+   "name": "Loopmancer"
+  },
+  {
+   "appid": 1653770,
+   "name": "2089 - Space Divided"
+  },
+  {
+   "appid": 1657900,
+   "name": "Carrier Command 2 VR"
+  },
+  {
+   "appid": 1662740,
+   "name": "[marked for removal]"
+  },
+  {
+   "appid": 1665280,
+   "name": "Skábma™ - Snowfall"
+  },
+  {
+   "appid": 1671350,
+   "name": "Touhou Monster TD ~ 幻想乡妖怪塔防"
+  },
+  {
+   "appid": 1671550,
+   "name": "[Chilla's Art] The Night Way Home | 帰り道"
+  },
+  {
+   "appid": 1674470,
+   "name": "ELYON"
+  },
+  {
+   "appid": 1675900,
+   "name": "Warlander"
+  },
+  {
+   "appid": 1682970,
+   "name": "Uncrashed : FPV Drone Simulator"
+  },
+  {
+   "appid": 1692250,
+   "name": "F1® 22"
+  },
+  {
+   "appid": 1695200,
+   "name": "星月之歌2"
+  },
+  {
+   "appid": 1695793,
+   "name": "Halo: Reach Mod Tools – MCC"
+  },
+  {
+   "appid": 1698830,
+   "name": "Volcanoids Modding SDK"
+  },
+  {
+   "appid": 1700700,
+   "name": "There Is No Light 616"
+  },
+  {
+   "appid": 1708520,
+   "name": "F1® Manager 2022"
+  },
+  {
+   "appid": 1716310,
+   "name": "AWAKEN - Astral Blade"
+  },
+  {
+   "appid": 1717420,
+   "name": "Branches"
+  },
+  {
+   "appid": 1717640,
+   "name": "Mahokenshi - The Samurai Deckbuilder"
+  },
+  {
+   "appid": 1718130,
+   "name": "SCP: Secret Files"
+  },
+  {
+   "appid": 1721830,
+   "name": "Skotos"
+  },
+  {
+   "appid": 1722270,
+   "name": "Innocence Or Money - Prelude"
+  },
+  {
+   "appid": 1726400,
+   "name": "The Death | Thần Trùng"
+  },
+  {
+   "appid": 1732190,
+   "name": "FATAL FRAME / PROJECT ZERO: Maiden of Black Water"
+  },
+  {
+   "appid": 1732840,
+   "name": "Destruction Dummies"
+  },
+  {
+   "appid": 1733680,
+   "name": "战国异闻录"
+  },
+  {
+   "appid": 1742840,
+   "name": "Puff Town"
+  },
+  {
+   "appid": 1744910,
+   "name": "[Chilla's Art] The Radio Station | 深夜放送"
+  },
+  {
+   "appid": 1745400,
+   "name": "League Manager 2022"
+  },
+  {
+   "appid": 1748180,
+   "name": "Unsung Empires: The Cholas"
+  },
+  {
+   "appid": 1748620,
+   "name": "FlipWitch - Forbidden Sex Hex"
+  },
+  {
+   "appid": 1763050,
+   "name": "Fears to Fathom - Norwood Hitchhike"
+  },
+  {
+   "appid": 1770080,
+   "name": "Superfuse"
+  },
+  {
+   "appid": 1770550,
+   "name": "Crypto Girls [18+] - SEXCoin"
+  },
+  {
+   "appid": 1772480,
+   "name": "Jelle's Marble League"
+  },
+  {
+   "appid": 1775270,
+   "name": "The Dark Pictures Anthology: House of Ashes - Friend's Pass"
+  },
+  {
+   "appid": 1794470,
+   "name": "MILFs of Sunville - Season 1"
+  },
+  {
+   "appid": 1805360,
+   "name": "Bounty game"
+  },
+  {
+   "appid": 1808780,
+   "name": "祖玛少女/Zuma Girls"
+  },
+  {
+   "appid": 1810580,
+   "name": "Nobody - The Turnaround"
+  },
+  {
+   "appid": 1811260,
+   "name": "EA SPORTS™ FIFA 23"
+  },
+  {
+   "appid": 1822560,
+   "name": "Minabo - A walk through life"
+  },
+  {
+   "appid": 1831530,
+   "name": "PC Creator - PC Building Simulator"
+  },
+  {
+   "appid": 1837750,
+   "name": "Demeo: PC Edition"
+  },
+  {
+   "appid": 1838590,
+   "name": "Thief Simulator 2 Playtest"
+  },
+  {
+   "appid": 1839950,
+   "name": "Terminator: Dark Fate - Defiance"
+  },
+  {
+   "appid": 1843090,
+   "name": "[Chilla's Art] The Closing Shift | 閉店事件"
+  },
+  {
+   "appid": 1843420,
+   "name": "Motorcycle Travel Simulator"
+  },
+  {
+   "appid": 1844230,
+   "name": "Malicious ReloadⅡ"
+  },
+  {
+   "appid": 1872550,
+   "name": "Destroy All Humans! – Clone Carnage"
+  },
+  {
+   "appid": 1877460,
+   "name": "Ghost"
+  },
+  {
+   "appid": 1896170,
+   "name": "Prince of Suburbia - Part 1"
+  },
+  {
+   "appid": 1899060,
+   "name": "Pocket Mirror ~ GoldenerTraum"
+  },
+  {
+   "appid": 1904540,
+   "name": "Football Manager 2023"
+  },
+  {
+   "appid": 1917410,
+   "name": "Elemental Angel II"
+  },
+  {
+   "appid": 1917720,
+   "name": "Two Sedans Driving Simulator"
+  },
+  {
+   "appid": 1919590,
+   "name": "NBA 2K23"
+  },
+  {
+   "appid": 1924480,
+   "name": "College Kings 2 - Episode 1"
+  },
+  {
+   "appid": 1931950,
+   "name": "Vade Retro : Exorcist"
+  },
+  {
+   "appid": 1942660,
+   "name": "WWE 2K23"
+  },
+  {
+   "appid": 1947500,
+   "name": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution"
+  },
+  {
+   "appid": 1955000,
+   "name": "3D PUZZLE - Alchemist House"
+  },
+  {
+   "appid": 1955830,
+   "name": "Touhou Hero of Ice Fairy"
+  },
+  {
+   "appid": 1956830,
+   "name": "[Chilla's Art] The Bathhouse | 地獄銭湯♨️"
+  },
+  {
+   "appid": 1961480,
+   "name": "3D PUZZLE - Farm House"
+  },
+  {
+   "appid": 1974520,
+   "name": "Dusk Pub - Adult Only"
+  },
+  {
+   "appid": 1983330,
+   "name": "Exorcist"
+  },
+  {
+   "appid": 1985930,
+   "name": "The Backrooms 1998 - Found Footage Survival Horror Game"
+  },
+  {
+   "appid": 1989270,
+   "name": "Slay the Princess — The Pristine Cut"
+  },
+  {
+   "appid": 1999770,
+   "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key"
+  },
+  {
+   "appid": 2050400,
+   "name": "3D PUZZLE - Japan"
+  },
+  {
+   "appid": 2050510,
+   "name": "Oriental Dynasty - Silk Road defense war"
+  },
+  {
+   "appid": 2051120,
+   "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
+  },
+  {
+   "appid": 2060080,
+   "name": "Fap Goddess"
+  },
+  {
+   "appid": 2061430,
+   "name": "Oxygen"
+  },
+  {
+   "appid": 2072890,
+   "name": "Foster: Ghost Child | 養小鬼"
+  },
+  {
+   "appid": 2078040,
+   "name": "White Day 2: The Flower That Tells Lies - Complete Edition"
+  },
+  {
+   "appid": 2091550,
+   "name": "God Of Gamblers"
+  },
+  {
+   "appid": 2095950,
+   "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs"
+  },
+  {
+   "appid": 2096310,
+   "name": "Novastella Island"
+  },
+  {
+   "appid": 2108330,
+   "name": "F1® 23"
+  },
+  {
+   "appid": 2109460,
+   "name": "VillageRhapsody"
+  },
+  {
+   "appid": 2116800,
+   "name": "モノマギア・カンタービレ"
+  },
+  {
+   "appid": 2120900,
+   "name": "Fears to Fathom - Carson House"
+  },
+  {
+   "appid": 2130460,
+   "name": "FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse"
+  },
+  {
+   "appid": 2131630,
+   "name": "METAL GEAR SOLID - Master Collection Version"
+  },
+  {
+   "appid": 2140330,
+   "name": "Madden NFL 24"
+  },
+  {
+   "appid": 2162800,
+   "name": "shapez 2 - Factory"
+  },
+  {
+   "appid": 2195250,
+   "name": "EA SPORTS FC™ 24"
+  },
+  {
+   "appid": 2200190,
+   "name": "[Chilla's Art] The Karaoke | ヒトカラ🎤"
+  },
+  {
+   "appid": 2223740,
+   "name": "Agatha Christie - Hercule Poirot: The London Case"
+  },
+  {
+   "appid": 2252570,
+   "name": "Football Manager 2024"
+  },
+  {
+   "appid": 2266910,
+   "name": "Chinese Expeditionary Force - Assault Team"
+  },
+  {
+   "appid": 2285890,
+   "name": "The Dark Pictures Anthology: The Devil In Me - Friend's Pass"
+  },
+  {
+   "appid": 2314720,
+   "name": "[Chilla's Art] Parasocial | パラソーシャル"
+  },
+  {
+   "appid": 2338770,
+   "name": "NBA 2K24"
+  },
+  {
+   "appid": 2340650,
+   "name": "古龙风云录"
+  },
+  {
+   "appid": 2354000,
+   "name": "Slackers - Carts of Glory"
+  },
+  {
+   "appid": 2367230,
+   "name": "[Chilla's Art] Night Security | 夜間警備"
+  },
+  {
+   "appid": 2381590,
+   "name": "not available"
+  },
+  {
+   "appid": 2386670,
+   "name": "Shooter"
+  },
+  {
+   "appid": 2420530,
+   "name": "Sexy Memory Puzzle - Spanking Girls"
+  },
+  {
+   "appid": 2442760,
+   "name": "Jorōgumo - じょろうぐも"
+  },
+  {
+   "appid": 2448030,
+   "name": "Pine Harbor"
+  },
+  {
+   "appid": 2467570,
+   "name": "真探2 Playtest"
+  },
+  {
+   "appid": 2483970,
+   "name": "Honeymoon : Mystery Journey"
+  },
+  {
+   "appid": 2493670,
+   "name": "Deja Vu : The Backrooms"
+  },
+  {
+   "appid": 2506160,
+   "name": "Fears to Fathom - Ironbark Lookout"
+  },
+  {
+   "appid": 2544090,
+   "name": "Milfy City - Final Edition"
+  },
+  {
+   "appid": 2545710,
+   "name": "Tony Hawk's™ Pro Skater™ 3 + 4"
+  },
+  {
+   "appid": 2552450,
+   "name": "KINGDOM HEARTS III + Re Mind (DLC)"
+  },
+  {
+   "appid": 2581370,
+   "name": "Monster Energy Supercross 25 - The Official Video Game"
+  },
+  {
+   "appid": 2593900,
+   "name": "[Chilla's Art] The Kidnap | 誘拐事件"
+  },
+  {
+   "appid": 2594920,
+   "name": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator"
+  },
+  {
+   "appid": 2596640,
+   "name": "Medieval Kingdom Wars Story"
+  },
+  {
+   "appid": 2669150,
+   "name": "Mindlock - The Apartment"
+  },
+  {
+   "appid": 2671110,
+   "name": "Sex Simulator - Naughty Waitress"
+  },
+  {
+   "appid": 2687990,
+   "name": "The Black Guards of Odom - Desert Town Prison"
+  },
+  {
+   "appid": 2716110,
+   "name": "[Chilla's Art] Jisatsu | 自撮"
+  },
+  {
+   "appid": 2793370,
+   "name": "[Chilla's Art] Shinkansen 0 | 新幹線 0号"
+  },
+  {
+   "appid": 2933620,
+   "name": "Call of Duty®"
+  },
+  {
+   "appid": 2961530,
+   "name": "Fears to Fathom - Woodbury Getaway"
+  },
+  {
+   "appid": 2989950,
+   "name": "The Bathhouse | 地獄銭湯 Restored Edition"
+  },
+  {
+   "appid": 3076240,
+   "name": "True Nightmare - Roadside Сafe"
+  },
+  {
+   "appid": 3120730,
+   "name": "Difference"
+  },
+  {
+   "appid": 3169520,
+   "name": "Warhammer 40,000: Space Marine - Master Crafted Edition"
+  },
+  {
+   "appid": 3273480,
+   "name": "Reach"
+  },
+  {
+   "appid": 3288920,
+   "name": "Ed & Edda: GRAND PRIX – Racing Champions"
+  },
+  {
+   "appid": 3334550,
+   "name": "Cursed Digicam | 呪われたデジカメ"
+  },
+  {
+   "appid": 3527760,
+   "name": "RoboCop: Rogue City - Unfinished Business"
+  },
+  {
+   "appid": 3556750,
+   "name": "Warhammer 40,000: Dawn of War - Definitive Edition"
+  },
+  {
+   "appid": 3655960,
+   "name": "Tales Beyond The Tomb - White Silence"
+  },
+  {
+   "appid": 3751150,
+   "name": "Station 0 - المحطة 0"
+  },
+  {
+   "appid": 3831660,
+   "name": "Obsessed : Night Shift"
+  },
+  {
+   "appid": 3860920,
+   "name": "Tales Beyond The Tomb - Route 86"
+  },
+  {
+   "appid": 3953160,
+   "name": "Human Farm : Investigation :"
+  }
+ ]
+}
